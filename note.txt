@@ -1,0 +1,221 @@
+coupon for godaddy
+
+GET30OFF
+
+ns1.digitalocean.com
+ns2.digitalocean.com
+ns3.digitalocean.com
+
+git push origin mastercd
+git pull origin master
+
+https://www.atlassian.com/git/tutorials/syncing/git-push
+
+
+============ SSH Key =================================================
+senwelo.works@gmail.com
+thecads
+
+ssh-keygen -t rsa -b 4096 -C "senwelo.works@gmail.com"
+
+SSH Key
+The key fingerprint is:
+SHA256:UclxMbNxW1VfS5fKtNGFpPkASAm09S+XbKPIynOlh3I senwelo.works@gmail.com
+
+
+eval "$(ssh-agent -s)"
+
+ssh-add ~/.ssh/id_rsa
+
+pbcopy < ~/.ssh/id_rsa.pub
+
+xclip -sel clip < ~/.ssh/id_rsa.pub
+
+#heretodesign#
+
+1hopeinJesus
+
+ssh digital oceans psw: just as it is.
+psw: abeldesign
+
+mysql-server 
+Usr: root
+psw: melhas1isaac4
+
+
+23min --add domain name video 3
+
+cp -a /adminmd/. /a/
+sudo cp -a ~/Sites/abel/adminmd/. ~/Sites/abel/a/ 
+
+rm -r melisawed
+rm -r abel
+
+sudo cp -a ~/Sites/abel/mogale/. ~/Sites/abel/bb/
+
+sudo cp -a /var/www/laravel/abel/melisawed/. /var/www/laravel
+
+/var/www/laravel/abel/melisawed
+
+stefanie.erdei@yahoo.de
+YWAMBali2019
+
+SELECT * FROM ismelwedding;
+
+===========================================================================
+
+cp -avr /Sites/abel/adminmd/ /Sites/abel/adminmd/
+
+cp -r /Sites/abel/abelplan/public/ /Sites/abel/bb/
+
+/var/www/laravel/resources/views
+
+sudo cp -avr /var/www/laravel/cadstraining/ /var/www/laravel/
+
+sudo cp -r /var/www/laravel/abel/melisawed/public/img/ /var/www/laravel/public/img/
+
+sudo cp -r /var/www/laravel/cadstraining/. /var/www/laravel/
+
+=========================================================================
+
+
+1. Maintain existing systems and develop new features for the involved squad. 
+2. Review the code of peers to comply with standards and best practices. 
+3. Taking on the scrum master responsibilities to conduct scrum ceremonies. 
+4. Give software architecture and design suggestions.
+
+
+1. Worked mainly with backend stack of Node Js and PHP, did some frontend javascript (react) and a bit of Python and Go.
+2. Built many internal microservices in Node Js (express) like Shipments with courier API integration, quality control and studio developing REST APIs with JSON. Sometimes involving integration with MS Dynamics ERP.
+3. Rewrote checkout implementations in PHP (Symfony) to remove Doctrine ORM and write raw SQL on MYSQL db, made the performance better.
+4. Assisted in Dockerizing the main PHP app to run it on Kubernetes.
+5. Contributed heavily in building the wallet and return functionality for Namshi customers, this helped the business a lot to manage customer returns.
+6. Mentored junior developers and help in day to day activities like code reviews, writing tests, setting up docker etc.
+7. Took on a small portion of QA responsibilities to make sure features are release-ready including writing automated functional tests for checkout.
+8. Deployed new features/ fixes live to Namshi apps on a daily basis.
+
+
+1. Write code to solve tickets/issues or add new features to the project on priority basis as assigned in JIRA.
+2. Adhere to coding standards and best practices for code reuse and maintainability.
+3. Collaborate on code and push relevant code to GitHub.
+4. Participate in planning meetings to estimate for issues following planning poker/scrum poker.
+5. Participate in daily scrum meeting and update the team about work done, also participate in other meetings.
+6. Verify issues as solved on each deployment.
+
+Rocket Internet (www.rocket-internet.de) is one of the most successful internet incubators globally; responsible for starting and participating in dozens of e-commerce companies in Europe, the US, South America, and Asia.
+
+1. Liaise between different teams to understand and clarify requirements in a multi-application scenario.
+2. Research on travel realted software like Golbal distribution system (GDS), Internet Booking Engine (IBE) and suggest the correct solutions to take products on-line involving web services.
+3.Conduct regular meetings between business and IT teams to update progress and solve problems.
+4. Research on web technologies and suggest the best ones for implementation in new systems and updating of used systems.
+5. Assist in documentation format and standards to follow and draft vision of the IT team.
+6. Assist in setting technical standards for code, database and modeling techniques.
+7. Help in hiring new people in the IT team and interview them from the technical aspect.
+
+
+1. Standardize overall procedures of software development from requirement analysis to deployment and feedback.
+2. Document business processes, create and finalize documentation requirement and its templates for each phase of software development.
+3. Convert software requirement to design documents and develop relevant data and process models.
+4. Decompose project work into modules and assign work to developers.
+5. Supervise developer(s) and estimate time for project completion.
+6. Monitor progress, report to the management and communicate with client about project progress.
+
+
+1. Research, analyze and design a solution show USoft batch jobs and decisions as meaningful BPMN 2.0 style diagrams including abort mode and error handling situations.
+2. Code new features to the internal USoft Diagrammer tool to show USoft batch jobs and decisions as BPMN 2.0 diagrams.
+3. Implement the solution in XSL and JQuery to visualize the USoft batch jobs and decisions in the USoft Diagrammer tool.
+4. Devise algorithm to show BPMN elements in new way so that elements do not overlap.
+5. Document all the activities done in order to be continued by the organization and master thesis. 
+
+
+1.Plan activities for projects from its inception to deployment.
+2.Communicate with the client from the project start to maintenance phase involving requirement gathering to constant follow ups on work done.
+3.Architect and design the web application or website with meetings with involved team members.
+4.Choose tools and methodology to develop the project.
+5.When leading projects, delegate work to team members as per their skill and competency. 
+6.Write code and develop the project for given requirements and meeting specified deadlines.
+7.Research on new ways of doing things to make the effort less.
+8.Participate in team and developer meetings, share knowledge and collaborate. 
+
+1. Design and code web applications as per client requirements with guidance from senior developer.
+2. Learn new programming framework and solve client problems.
+3. Research on new tools and suggest possible ways to develop new products.
+4. Worked on conceptualizing a real estate management product and a CMS to realize it.
+5. Mentor juniors; document the work for future reference.
+
+
+1. Administer and manage websites related to the organization and its programs. 
+2. Manage Drupal websites, update modules. 
+3. Code needed changes to the website and research on methods to make websites better. 
+4. Document changes to the websites.
+
+
+As I uphold you in prayer this week, I continually declare that you'd be faith-filled for the mariculous as you partner with God and what He's doing in the MiddleEast... and Eyes to see what He's doing in the lives around you.
+
+
+Check out some beautiful photos of Chien & Maddie just moments after their romantic engagement.
+
+
+
+https://www.wix.com/blog/2016/07/gorgeous-wedding-websites-youll-want-to-copy/
+http://francesco-adriana.wixsite.com/wedding/the-wedding
+
+http://doronbg.wixsite.com/doronnyam
+wedding crew page
+https://www.nikkianddavid2016.com/wedding-party
+http://francesco-adriana.wixsite.com/wedding/getting-there
+
+
+https://www.theknot.com/gs/wedding-websites
+
+https://www.tietheknot.my/love-notes/
+https://www.theknot.com/us/samantha-carisch-and-taylor-sinclair-jun-2015/our-love-story#boy-meets-girl
+
+https://www.wix.com/blog/2016/07/gorgeous-wedding-websites-youll-want-to-copy/
+
+https://www.wix.com/blog/2016/05/how-to-create-a-wedding-website-that-wows-your-guests-2/
+https://www.womangettingmarried.com/best-wedding-websites/
+https://weddinglovely.com/blog/category/featured-invitation/
+
+
+   3 Main Task:
+        1. Data Driven Organization :
+            1.1: 12 Questions Radio button [ Progress 95% ]
+                - Currently working on exporting it into a pdf template
+                - Mapping the final results
+
+           1.2: & and 6 Questions Multiple selection [ Progress 70% ] 
+                - We are waiting for the finalised questions and Answers from Stam and Simon within the next few weeks. 
+                - We are also waiting for the algorithm to do the required mapping once the questions are confirmed.
+                - 
+
+        2. TheCads Learning: The scheduling dynamic page. [ Progress 10% ]
+                - Experimenting Phase: We are waiting for the actuall template from the vendor next Friday. 
+                - So we are currently doing 2 testing rounds, one with a wordpress plugin for scheduling events. It is calendar based so there is a possibility that adding - updating and changing courses might be a limitation with the plugin. 
+                - and Secondly, with a hard coded method. The simpliLearn website was designed using angular4 and a cloud based database side. So we are trying to 
+
+                .followus .container .row #follow-us .grid .form-inline .form-control
+
+                
+                
+
+
+That is so cool, to kind of have a restful week. 
+
+Definitely better for sure. My Greek boss is here for the next 3weeks, he works remotely from Athens and comes around every few months. When he's here, it kinda means more project meetings and updates. I generally dont enjoy long meetings - but as the lead developer I cant bail out. I also have a friend visiting from the US, basically he is a friend of a friend of mine. So I've been hanging out with him for a fair bit as well. 
+
+yea I honestly get to thoroughly process a lot haha, journal journal and measure the sacrifice it'll take to see my dreams become a reality. I have spent the last 12years pursuing God and what He has for me. There's a LOT I want to do with my one life. A lot to sacrifice to see that happen as well. I've withdrawn my passion from any activity, habits - basically anything that is not part of taking me there. And just channeled it in the right areas - I also have a soft spot for missions & missionaries in general. 
+
+
+tension / conflict in relationships is just inevitable. Its maturity to know the best time to do confrontations and when to reconcile as well. I think being self-aware has helped me a lot relationally-emotionally. To be able to know whats going on internally and what my capacity is for that day [esp that I work waaaaaay longer hours] - I've gotten into way less tense moments and fights because of that. The enemy takes out waaay to many relationships & families because of offense and conflict. So to do relationships well we have to create a culture that values open communication & facilitates reconciliation we things doesnt go well. I consider doing Family well to be the highest blessing in life, so I've made it a goal to just get equipped in that sense. My trips to Botswana often feels like these as well, our siblings & families fight a lot, hold grudges longer, dont see eye to eye - and often its something soo small that we fight over or that divides us. And often everyone waits for me to come and initiate reconciliation. Any holiday home that is fight free amongst my siblings is like christmas. 
+
+
+
+
+
+
+
+
+
+
+

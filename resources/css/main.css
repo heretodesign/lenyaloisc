@@ -1,0 +1,154 @@
+/**
+ * This injects Tailwind's base styles, which is a combination of
+ * Normalize.css and some additional base styles.
+ *
+ * You can see the styles here:
+ * https://github.com/tailwindcss/tailwindcss/blob/master/css/preflight.css
+ *
+ * If using `postcss-import`, use this import instead:
+ *
+ * @import "tailwindcss/preflight";
+ */
+@tailwind preflight;
+
+a {
+     text-decoration: none;
+     @apply text-teal;
+ }
+
+ .top-nav-item {
+     @apply .text-grey-darker .text-sm .mr-4 .font-semibold .pb-6  .border-b-2 .border-solid .border-transparent;
+ }
+ .top-nav-item:hover {
+     @apply .text-pink-darker .border-pink-darker;
+ }
+ .cardopt {
+ 	@apply .ml-24;
+ }
+ .excell-cover {
+ 	background-image: url('/img/excld.png');
+ 	@apply .bg-cover;
+ }
+
+ .landingnow {
+ 	background-image: url('/img/_MG_0329.jpg');
+ 	@apply .bg-cover;
+ }
+ /*.land-bg {
+ 	background-image: linear-gradient(90deg,#0c0c0c 28%,rgba(255,255,255,.14) 95%), url('/img/_MG_0448.jpg');
+ 	@apply .bg-cover;
+ }*/
+
+ /*.isaacstory {
+	@apply .bg-transparent ;
+ }*/
+ .outstory {
+ 	background-image: url('/img/_MG_0448.jpg');
+ 	@apply .bg-cover .w-full;
+ }
+ .coverstory {
+ 	background-image: url('/img/_MG_0404.jpg');
+ 	@apply .bg-cover .w-full;
+ }
+
+ .rsvpnow {
+ 	background-image: url('/img/_MG_0327.jpg');
+ 	@apply .bg-cover;
+ }
+ 
+ .backimg {
+ 	background-image: url('/img/back.png');
+ 	@apply .bg-cover;
+ }
+ .story-cover {
+ 	background-image: url('/img/exc.png');
+ 	@apply .bg-cover;
+ }
+ .pp-cover {
+ 	background-image: url('/img/exc.png');
+ 	@apply .bg-cover;
+ }
+  .training {
+ 	background-image: linear-gradient(
+      rgba(255, 0, 0, 0.45), 
+      rgba(255, 0, 0, 0.45)
+    ), url('/img/chuttersnap-502039-unsplash.jpg');
+ 	@apply .bg-cover;
+ }
+   .guide {
+ 	background-image: linear-gradient(
+      rgba(192,192,192,0.3),
+      rgba(255,255,0,0.3)
+    ), url('/img/artem-bali-1077873-unsplash.jpg');
+ 	@apply .bg-cover;
+ }
+   .isaac {
+ 	background-image: linear-gradient(
+      rgba(192,192,192,0.3),
+      rgba(255,255,0,0.3)
+    ), url('/img/thomas-ae-602203-unsplash.jpg');
+ 	@apply .bg-cover;
+ }
+  .proposal {
+ 	background-image: linear-gradient(
+      rgba(255, 0, 0, 0.45), 
+      rgba(255, 0, 0, 0.45)
+    ), url('/img/matt-whitacre-770108-unsplash.jpg');
+ 	@apply .bg-cover;
+ }
+  .proposal1 {
+ 	background-image: linear-gradient(
+      rgba(255, 0, 0, 0.45), 
+      rgba(255, 0, 0, 0.45)
+    ), url('/img/_MG_0312.jpg');
+ 	@apply .bg-cover;
+ }
+/**
+ * This injects any component classes registered by plugins.
+ *
+ * If using `postcss-import`, use this import instead:
+ *
+ * @import "tailwindcss/components";
+ */
+@tailwind components;
+
+/**
+ * Here you would add any of your custom component classes; stuff that you'd
+ * want loaded *before* the utilities so that the utilities could still
+ * override them.
+ *
+ * Example:
+ *
+ * .btn { ... }
+ * .form-input { ... }
+ *
+ * Or if using a preprocessor or `postcss-import`:
+ *
+ * @import "components/buttons";
+ * @import "components/forms";
+ */
+
+/**
+ * This injects all of Tailwind's utility classes, generated based on your
+ * config file.
+ *
+ * If using `postcss-import`, use this import instead:
+ *
+ * @import "tailwindcss/utilities";
+ */
+@tailwind utilities;
+
+/**
+ * Here you would add any custom utilities you need that don't come out of the
+ * box with Tailwind.
+ *
+ * Example :
+ *
+ * .bg-pattern-graph-paper { ... }
+ * .skew-45 { ... }
+ *
+ * Or if using a preprocessor or `postcss-import`:
+ *
+ * @import "utilities/background-patterns";
+ * @import "utilities/skew-transforms";
+ */
